@@ -13,7 +13,7 @@
         "release_year": 2019,
         "director": "Anthony Russo, Joe Russo",
         "box_office": "2.799billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "release_year": 2022,
         "director": "James Cameron",
         "box_office": "2.320 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "release_year": 1997,
         "director": "James Cameron",
         "box_office": "2.264 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "release_year": 2015,
         "director": "J. J. Abrams",
         "box_office": "2.07billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 6,
@@ -45,15 +45,15 @@
         "release_year": 2018,
         "director": "Anthony Russo, Joe Russo",
         "box_office": "2.052 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 7,
         "title": "Ne Zha 2",
         "release_year": 2025,
-        "director": null,
-        "box_office": null,
-        "country": null
+        "director": "Jiaozi",
+        "box_office": "2 billion",
+        "country": "China"
     },
     {
         "id": 8,
@@ -61,7 +61,7 @@
         "release_year": 2021,
         "director": "Jon Watts",
         "box_office": "1.923 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 9,
@@ -69,7 +69,7 @@
         "release_year": 2024,
         "director": "Kelsey Mann",
         "box_office": "1.699 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 10,
@@ -77,7 +77,7 @@
         "release_year": 2015,
         "director": "Colin Trevorrow",
         "box_office": "1.671 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 11,
@@ -85,7 +85,7 @@
         "release_year": 2019,
         "director": "Jon Favreau",
         "box_office": "1.657 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 12,
@@ -93,7 +93,7 @@
         "release_year": 2012,
         "director": "Joss Whedon",
         "box_office": "1.521 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 13,
@@ -109,7 +109,7 @@
         "release_year": 2022,
         "director": "Joseph Kosinski",
         "box_office": "1.496 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 15,
@@ -117,7 +117,7 @@
         "release_year": 2019,
         "director": "Chris Buck, Jennifer Lee",
         "box_office": "1.453billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 16,
@@ -133,7 +133,7 @@
         "release_year": 2015,
         "director": "Joss Whedon",
         "box_office": "1.405 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 18,
@@ -141,7 +141,7 @@
         "release_year": 2023,
         "director": "Aaron Horvath, Michael Jelenic",
         "box_office": "1.363 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 19,
@@ -149,7 +149,7 @@
         "release_year": 2018,
         "director": "Ryan Coogler",
         "box_office": "1.35 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 20,
@@ -165,7 +165,7 @@
         "release_year": 2024,
         "director": "Shawn Levy",
         "box_office": "1.338 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 22,
@@ -173,7 +173,7 @@
         "release_year": 2017,
         "director": "Rian Johnson",
         "box_office": "1.334billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 23,
@@ -189,7 +189,7 @@
         "release_year": 2013,
         "director": "Chris Buck, Jennifer Lee",
         "box_office": "1.280 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 25,
@@ -197,7 +197,7 @@
         "release_year": 2017,
         "director": "Bill Condon",
         "box_office": "1.266billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 26,
@@ -205,7 +205,7 @@
         "release_year": 2018,
         "director": "Brad Bird",
         "box_office": "1.243 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 27,
@@ -221,7 +221,7 @@
         "release_year": 2013,
         "director": "Shane Black",
         "box_office": "1.266 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 29,
@@ -229,7 +229,7 @@
         "release_year": 2015,
         "director": "Pierre Coffin, Kyle Balda",
         "box_office": "1.159 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 30,
@@ -237,7 +237,7 @@
         "release_year": 2016,
         "director": "Anthony Russo, Joe Russo",
         "box_office": "1.155billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 31,
@@ -245,7 +245,7 @@
         "release_year": 2018,
         "director": "James Wan",
         "box_office": "1.152 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 32,
@@ -257,27 +257,27 @@
     },
     {
         "id": 33,
-        "title": "RK",
+        "title": "Spider-Man: Far From Home",
         "release_year": 2019,
         "director": "Jon Watts",
         "box_office": "1.133 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 34,
-        "title": "RK",
+        "title": "Captain Marvel",
         "release_year": 2019,
         "director": "Anna Boden, Ryan Fleck",
         "box_office": "1.131 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 35,
-        "title": "RK",
+        "title": "Transformers: Dark of the Moon",
         "release_year": 2011,
         "director": "Michael Bay",
         "box_office": "1.124 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 36,
@@ -293,7 +293,7 @@
         "release_year": 2014,
         "director": "Michael Bay",
         "box_office": "1.104 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 38,
@@ -309,7 +309,7 @@
         "release_year": 2019,
         "director": "Todd Phillips",
         "box_office": "1.079 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 40,
@@ -317,7 +317,7 @@
         "release_year": 2019,
         "director": "J. J. Abrams",
         "box_office": "1.077 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 41,
@@ -325,15 +325,15 @@
         "release_year": 2019,
         "director": "Josh Cooley",
         "box_office": "1.074 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 42,
-        "title": "TS3",
+        "title": "Toy Story 3",
         "release_year": 2010,
         "director": "Lee Unkrich",
         "box_office": "1.067 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 43,
@@ -341,7 +341,7 @@
         "release_year": 2006,
         "director": "Gore Verbinski",
         "box_office": "1.066 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 44,
@@ -349,7 +349,7 @@
         "release_year": 2016,
         "director": "Gareth Edwards",
         "box_office": "1.059 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 45,
@@ -357,7 +357,7 @@
         "release_year": 2024,
         "director": "David Derrick Jr.Jason Hand, Dana Ledoux Miller",
         "box_office": "1.05 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 46,
@@ -365,7 +365,7 @@
         "release_year": 2019,
         "director": "Guy Ritchie",
         "box_office": "1.054 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 47,
@@ -373,7 +373,7 @@
         "release_year": 1999,
         "director": "George Lucas",
         "box_office": "1.047 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 48,
@@ -381,7 +381,7 @@
         "release_year": 2011,
         "director": "Rob Marshall",
         "box_office": "1.046 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 49,
@@ -389,7 +389,7 @@
         "release_year": 1993,
         "director": "Steven Spielberg",
         "box_office": "1.058 billion",
-        "country": null
+        "country": "United States"
     },
     {
         "id": 50,
@@ -397,6 +397,6 @@
         "release_year": 2017,
         "director": "Pierre Coffin, Kyle Balda",
         "box_office": "1.035billion",
-        "country": null
+        "country": "United States"
     }
 ]

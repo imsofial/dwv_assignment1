@@ -2,44 +2,42 @@
 <html lang="en">
 
 <head>
-    <title>Highest Grossing Films</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-
-        th,
-        td {
-            padding: 8px 12px;
-            border: 1px solid #ddd;
-        }
-
-        th {
-            background-color: #f4f4f4;
-        }
-    </style>
+    <meta charset="UTF-8">
+    <title>Highest-Grossing Films</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <h1>Highest Grossing Films</h1>
-    <input type="text" id="search" placeholder="Search by title..." oninput="filterFilms()">
-    <table id="filmsTable">
-        <thead>
-            <tr>
-                <th>Title</th>
-                <th>Year</th>
-                <th>Director</th>
-                <th>Box Office</th>
-                <th>Country</th>
-            </tr>
-        </thead>
-        <tbody></tbody>
-    </table>
+    <div class="container">
+        <h1>Highest-Grossing Films</h1>
+        <input type="text" id="searchInput" placeholder="Search by title...">
+    
+        <label class="sort-label">
+            <span>
+                Sort by
+            </span>
+            <select id="sortCriteria">
+                <option value="title">Title</option>
+                <option value="year">Year</option>
+                <option value="director">Director</option>
+            </select>
+        </label>
+    
+        <table id="filmsTable">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Year</th>
+                    <th>Director</th>
+                    <th>Revenue</th>
+                    <th>Country</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be inserted here by JS -->
+            </tbody>
+        </table>
+    </div>
 
     <script src="script.js"></script>
 </body>
