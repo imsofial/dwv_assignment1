@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
   function sortFilms(criteria) {
-    let sorted = [...films]; // Копия массива
+    let sorted = [...films]; 
 
     if (criteria === "title") {
       sorted.sort((a, b) => a.title.localeCompare(b.title));
@@ -53,12 +53,11 @@ document.addEventListener("DOMContentLoaded", function () {
       sorted.sort((a, b) => {
         if (a.director == null || b.director == null) return 0;
         return a.director.localeCompare(b.director);
-      }); // По убыванию
+      }); 
     }
 
     renderTable(sorted);
   }
-  // Обработчик изменения фильтра
   document.getElementById("sortCriteria").addEventListener("change", (e) => {
     sortFilms(e.target.value);
   });
